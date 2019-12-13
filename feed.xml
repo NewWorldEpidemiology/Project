@@ -3,10 +3,56 @@
     <title>New World Epidemiology</title>
     <link href="https://newworldepidemiology.github.io/Project/feed.xml" rel="self" />
     <link href="https://newworldepidemiology.github.io/Project" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2019-12-13T15:19:05-08:00</updated>
     <author>
         <name>Pavan</name>
     </author>
     <id>https://newworldepidemiology.github.io/Project</id>
 
+    <entry>
+        <title>Findings</title>
+        <author>
+            <name>Pavan</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/Project/findings.html"/>
+        <id>https://newworldepidemiology.github.io/Project/findings.html</id>
+
+        <updated>2019-12-13T15:13:03-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://newworldepidemiology.github.io/Project/media/posts/7/diseased-findings.jpg" alt="" />
+                    Overall, we have found that disease spread faster than Europeans could travel. Just from their landing, Native Americans caught diseases and spread them to other tribes and cities. Due to this rapid spread, Europeans viewed the Native American populations as sicker and thinner than normal.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://newworldepidemiology.github.io/Project/media/posts/7/diseased-findings.jpg" alt="" />
+                <p>Overall, we have found that disease spread faster than Europeans could travel. Just from their landing, Native Americans caught diseases and spread them to other tribes and cities. Due to this rapid spread, Europeans viewed the Native American populations as sicker and thinner than normal. </p>
+<p>To address our original question, disease spread organically far more than by European force. Smallpox blankets and other forms of biological warfare may have hurt small groups of Natives during battle, but many Native Americans caught diseases before seeing a European. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Syphilis</title>
+        <author>
+            <name>Pavan</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/Project/syphilis.html"/>
+        <id>https://newworldepidemiology.github.io/Project/syphilis.html</id>
+
+        <updated>2019-12-13T15:09:02-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://newworldepidemiology.github.io/Project/media/posts/5/sy.jpg" alt="" />
+                    Researchers debate the origin of syphilis, and usually agree with one of two theories. The first states that syphilis existed in Europe before Columbus returned, and that it was misdiagnosed as other diseases. The other theory states that it came from the Americas and spread&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://newworldepidemiology.github.io/Project/media/posts/5/sy.jpg" alt="" />
+                <p>Researchers debate the origin of syphilis, and usually agree with one of two theories. The first states that syphilis existed in Europe before Columbus returned, and that it was misdiagnosed as other diseases. The other theory states that it came from the Americas and spread along Europe only after Columbus returned. </p>
+<p>From our data, the shape of a spread appears for syphilis reportings in Europe and Asia. This support the idea that European explorers brought the disease back with them, while before syphilis existed only in the New World.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
