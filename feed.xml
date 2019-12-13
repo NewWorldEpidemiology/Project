@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>EpiProject</title>
+    <link href="https://newworldepidemiology.github.io/Project/feed.xml" rel="self" />
+    <link href="https://newworldepidemiology.github.io/Project" />
+    <updated>2019-12-13T14:48:13-08:00</updated>
+    <author>
+        <name>Pavan</name>
+    </author>
+    <id>https://newworldepidemiology.github.io/Project</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Pavan</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/Project/test.html"/>
+        <id>https://newworldepidemiology.github.io/Project/test.html</id>
+
+        <updated>2019-12-13T14:45:33-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
