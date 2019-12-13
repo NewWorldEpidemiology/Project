@@ -1,26 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "EpiProject",
+    "title": "New World Epidemiology",
     "description": "",
     "home_page_url": "https://newworldepidemiology.github.io/Project",
     "feed_url": "https://newworldepidemiology.github.io/Project/feed.json",
     "user_comment": "",
-    "icon": "https://newworldepidemiology.github.io/Project/media/website/Amerigo-Vespuccis-Map-Waldseemuller_1507.jpg",
     "author": {
         "name": "Pavan"
     },
     "items": [
-        {
-            "id": "https://newworldepidemiology.github.io/Project/test.html",
-            "url": "https://newworldepidemiology.github.io/Project/test.html",
-            "title": "Test",
-            "author": {
-                "name": "Pavan"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-12-13T14:45:33-08:00",
-            "date_modified": "2019-12-13T14:45:33-08:00"
-        }
     ]
 }
