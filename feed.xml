@@ -3,7 +3,7 @@
     <title>New World Epidemiology</title>
     <link href="https://newworldepidemiology.github.io/Project/feed.xml" rel="self" />
     <link href="https://newworldepidemiology.github.io/Project" />
-    <updated>2019-12-14T15:52:34-08:00</updated>
+    <updated>2019-12-14T16:00:29-08:00</updated>
     <author>
         <name>Pavan Tauh</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://newworldepidemiology.github.io/Project/method.html"/>
         <id>https://newworldepidemiology.github.io/Project/method.html</id>
 
-        <updated>2019-12-14T15:48:15-08:00</updated>
+        <updated>2019-12-14T16:00:23-08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://newworldepidemiology.github.io/Project/media/posts/14/book.jpg" alt="" />
                     First, we accumulated data from online scholarly articles and books from our library. We searched for maps, movements of diseases and facts of disease spread. Later, we emailed tribal leaders for any information and guidance they could provide. Next, we compiled these datapoints into an&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://newworldepidemiology.github.io/Project/media/posts/14/book.jpg" alt="" />
                 <p>First, we accumulated data from online scholarly articles and books from our library. We searched for maps, movements of diseases and facts of disease spread. Later, we emailed tribal leaders for any information and guidance they could provide.</p>
 <p>Next, we compiled these datapoints into an Excel sheet and added metadata to help with the graphing process. We noted the date, location, disease, source, and any related information that could either explain or be explained from this event.</p>
 <p>While searching for data, we realized that statistics about Native American infection rates were sparse compared to European colonizers. For example, we found more information about syphilis than other diseases, likely because it affected European colonizers.  As we continue the project, we hope to be able to add more disease spreads but finding data will always remain an obstacle. Records were not kept in writing by Native Americans and reaching out to tribal leaders has not yielded a response yet, so we will need to keep finding sources.</p>
