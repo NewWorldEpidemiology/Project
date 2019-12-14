@@ -3,7 +3,7 @@
     <title>New World Epidemiology</title>
     <link href="https://newworldepidemiology.github.io/Project/feed.xml" rel="self" />
     <link href="https://newworldepidemiology.github.io/Project" />
-    <updated>2019-12-14T16:55:20-08:00</updated>
+    <updated>2019-12-14T16:58:54-08:00</updated>
     <author>
         <name>Pavan Tauh</name>
     </author>
@@ -96,7 +96,7 @@
         <link href="https://newworldepidemiology.github.io/Project/map.html"/>
         <id>https://newworldepidemiology.github.io/Project/map.html</id>
 
-        <updated>2019-12-14T16:33:23-08:00</updated>
+        <updated>2019-12-14T16:56:04-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://newworldepidemiology.github.io/Project/media/posts/10/leaf.jpg" alt="" />
@@ -106,7 +106,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://newworldepidemiology.github.io/Project/media/posts/10/leaf.jpg" alt="" />
-                <p><img class="post__image" src="https://newworldepidemiology.github.io/Project/media/posts/10/Map.jpg" alt="" width="1280" height="625"></p>
+                <p><img class="post__image post__image--center" src="https://newworldepidemiology.github.io/Project/media/posts/10/Map.jpg" width="1280" height="625"></p>
 <p>          In the end, we aimed to produce a map, and this was the hardest part of our project. The map above is an interactive map with points marking the recorded locations of smallpox during a particular outbreak, with the date viewable from each point. While currently this website only contains a screenshot of the map, we will soon be integrating the actual code with the website so readers can interact with the information. We expected to do more with our map, but due to the complications of learning a new coding language and mapping tools, our first map took longer than we anticipated. As the project continues, we will add more elements to the map to better demonstrate and accentuate our findings. Our eventual map will demonstrate the spread of both syphilis and smallpox, with different overlays including a map of European colonies and one of Native American tribes, so we can place these dates and locations in context. The other significant feature we still haven’t added is the timeline progression within the map, so that we can view different rates of spread.</p>
 <p>          The process for creating the map began first with data collection. Because there is almost no digital data on this subject, we had to search multiple books for information on the dates and locations of outbreaks. This took a significant amount of time, as we were manually collecting information. We still need to collect further information to add more evidence supporting our claims, which will be a continued process of reading historical texts.</p>
 <p>          We took the data we found and placed it in a spreadsheet and exported the data, using code that formatted the locations names and added their latitude and longitude. Then we took the formatted data, and placed it in a program called GeoJSON, which took the information in the spreadsheet and mapped it with the date located at each location point. This is the point at which the screenshot above was taken, with the map and GeoJSON code. This process took more work than expected, as the code originally written did not distinguish between East/West and North/South in the coordinates, so the first produced map originally mapped every point to India. With further adjustments, we managed to get each of the data points in the right location.</p>
