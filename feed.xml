@@ -3,12 +3,28 @@
     <title>New World Epidemiology</title>
     <link href="https://newworldepidemiology.github.io/Project/feed.xml" rel="self" />
     <link href="https://newworldepidemiology.github.io/Project" />
-    <updated>2019-12-13T15:43:12-08:00</updated>
+    <updated>2019-12-13T18:10:44-08:00</updated>
     <author>
         <name>Pavan</name>
     </author>
     <id>https://newworldepidemiology.github.io/Project</id>
 
+    <entry>
+        <title>Map</title>
+        <author>
+            <name>Pavan</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/Project/map.html"/>
+        <id>https://newworldepidemiology.github.io/Project/map.html</id>
+
+        <updated>2019-12-13T18:09:12-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <img class="post__image" src="https://newworldepidemiology.github.io/Project/media/posts/10/Map.jpg" alt="" width="1280" height="625">
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Findings</title>
         <author>
@@ -17,7 +33,7 @@
         <link href="https://newworldepidemiology.github.io/Project/findings.html"/>
         <id>https://newworldepidemiology.github.io/Project/findings.html</id>
 
-        <updated>2019-12-13T15:27:40-08:00</updated>
+        <updated>2019-12-13T16:25:52-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://newworldepidemiology.github.io/Project/media/posts/7/American-Indians-and-European-Diseases.jpg" alt="" />
