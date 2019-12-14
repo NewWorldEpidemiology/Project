@@ -3,12 +3,36 @@
     <title>New World Epidemiology</title>
     <link href="https://newworldepidemiology.github.io/Project/feed.xml" rel="self" />
     <link href="https://newworldepidemiology.github.io/Project" />
-    <updated>2019-12-13T18:21:45-08:00</updated>
+    <updated>2019-12-13T18:43:35-08:00</updated>
     <author>
         <name>Pavan</name>
     </author>
     <id>https://newworldepidemiology.github.io/Project</id>
 
+    <entry>
+        <title>Abstract</title>
+        <author>
+            <name>Pavan</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/Project/abstract.html"/>
+        <id>https://newworldepidemiology.github.io/Project/abstract.html</id>
+
+        <updated>2019-12-13T18:42:37-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Background</title>
+        <author>
+            <name>Pavan</name>
+        </author>
+        <link href="https://newworldepidemiology.github.io/Project/background.html"/>
+        <id>https://newworldepidemiology.github.io/Project/background.html</id>
+
+        <updated>2019-12-13T18:42:33-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Map</title>
         <author>

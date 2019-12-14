@@ -10,6 +10,30 @@
     },
     "items": [
         {
+            "id": "https://newworldepidemiology.github.io/Project/abstract.html",
+            "url": "https://newworldepidemiology.github.io/Project/abstract.html",
+            "title": "Abstract",
+            "author": {
+                "name": "Pavan"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-13T18:42:37-08:00",
+            "date_modified": "2019-12-13T18:42:37-08:00"
+        },
+        {
+            "id": "https://newworldepidemiology.github.io/Project/background.html",
+            "url": "https://newworldepidemiology.github.io/Project/background.html",
+            "title": "Background",
+            "author": {
+                "name": "Pavan"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-13T18:42:33-08:00",
+            "date_modified": "2019-12-13T18:42:33-08:00"
+        },
+        {
             "id": "https://newworldepidemiology.github.io/Project/map.html",
             "url": "https://newworldepidemiology.github.io/Project/map.html",
             "title": "Map",
